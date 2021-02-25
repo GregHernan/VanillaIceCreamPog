@@ -1,0 +1,18 @@
+{
+  "created": "2021-02-20T19:42:43.303Z",
+  "updated": "2021-02-20T19:42:43.303Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "i_work_for_epic_games",
+  "profileId": "common_public",
+  "version": "fortnite_start",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "banner_color": "",
+      "homebase_name": "",
+      "banner_icon": ""
+    }
+  },
+  "_id": "i_work_for_epic_games"
+}

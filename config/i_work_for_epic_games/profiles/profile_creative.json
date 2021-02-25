@@ -1,0 +1,24 @@
+{
+  "created": "2021-02-20T19:42:52.106Z",
+  "updated": "2021-02-20T19:42:52.106Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "i_work_for_epic_games",
+  "profileId": "creative",
+  "version": "fix_empty_users_again_july_2019",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "last_used_battlelab_file": "",
+      "max_island_plots": 50,
+      "publish_allowed": true,
+      "support_code": "",
+      "last_used_plot": "",
+      "permissions": [],
+      "creator_name": "",
+      "publish_banned": false,
+      "inventory_limit_bonus": 0
+    }
+  },
+  "_id": "i_work_for_epic_games"
+}

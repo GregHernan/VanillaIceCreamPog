@@ -1,0 +1,493 @@
+{
+  "_id": "",
+  "created": "2021-02-20T19:20:03.404Z",
+  "updated": "2021-02-20T19:20:03.404Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "",
+  "profileId": "athena",
+  "version": "neonite_2",
+  "items": {
+    "Quest:quest_s11_discover_namedlocations": {
+      "templateId": "Quest:quest_s11_discover_namedlocations",
+      "quantity": 1,
+      "attributes": {
+        "creation_time": "min",
+        "item_seen": false,
+        "favorite": false,
+        "xp": 0,
+        "completion_visit_location_pleasantpark": 3,
+        "completion_visit_location_retailrow": 3,
+        "completion_visit_location_carl": 3,
+        "completion_visit_location_sunnyshores": 2,
+        "completion_visit_location_frenzyfarm": 2,
+        "completion_visit_location_cattycorner": 3,
+        "completion_visit_location_nightmarejungle": 3,
+        "completion_visit_location_saltysprings": 2,
+        "completion_visit_location_dirtydocks": 3,
+        "completion_visit_location_shadowagency": 3,
+        "completion_visit_location_slurpyswamp": 2,
+        "completion_visit_location_fortilla": 3,
+        "completion_visit_location_lazylake": 3,
+        "completion_impossible_poi_of_permanence": 3,
+        "completion_visit_location_oilrigislands": 3,
+        "completion_visit_location_thecoliseum": 3,
+        "completion_visit_location_huntershaven": 3,
+        "completion_visit_location_saltytowers": 3,
+        "completion_visit_location_beachybluffs": 2,
+        "completion_visit_location_weepingwoods": 2,
+        "completion_visit_location_tomatolab": 3,
+        "completion_visit_location_powerplant": 2,
+        "completion_visit_location_hollyhedges": 3,
+        "completion_visit_location_mountainmeadow": 3
+      }
+    },
+    "Quest:quest_s11_discover_landmarks": {
+      "templateId": "Quest:quest_s11_discover_landmarks",
+      "quantity": 1,
+      "attributes": {
+        "creation_time": "min",
+        "item_seen": false,
+        "favorite": false,
+        "xp": 0,
+        "completion_visit_landmark_basecampgolf": 3,
+        "completion_visit_namedpoi_tomatowater": 3,
+        "completion_visit_papaya_mountainpeak": 3,
+        "completion_visit_landmark_mountf8": 3,
+        "completion_visit_landmark_kitskantina": 3,
+        "completion_visit_landmark_beachrentals": 3,
+        "completion_visit_landmark_cabin": 3,
+        "completion_visit_landmark_fortruin": 3,
+        "completion_visit_landmark_heroespark": 3,
+        "completion_visit_landmark_jetlanding_06": 3,
+        "completion_visit_landmark_jetlanding_05": 3,
+        "completion_visit_landmark_jetlanding_04": 3,
+        "completion_visit_landmark_pizzapitbarge": 3,
+        "completion_visit_landmark_jetlanding_02": 3,
+        "completion_visit_landmark_workshop": 3,
+        "completion_visit_landmark_jetlanding_01": 3,
+        "completion_visit_landmark_icehotel": 3,
+        "completion_visit_landmark_islandlodge": 3,
+        "completion_visit_landmark_theyacht2": 3,
+        "completion_visit_landmark_iohub_e6": 3,
+        "completion_visit_landmark_tantorsphere": 3,
+        "completion_visit_landmark_tomatotown": 3,
+        "completion_visit_landmark_jetlanding_09": 3,
+        "completion_visit_landmark_jetlanding_08": 3,
+        "completion_visit_landmark_jetlanding_07": 3,
+        "completion_visit_landmark_bigbridgeyellow": 3,
+        "completion_visit_landmark_butterbarn": 3,
+        "completion_visit_landmark_spybase_grottoruins": 3,
+        "completion_visit_landmark_iohub_d1": 3,
+        "completion_visit_landmark_riskyreels": 3,
+        "completion_visit_landmark_overgrownheads": 3,
+        "completion_visit_landmark_spybase_boxfactory": 3,
+        "completion_visit_landmark_sirenisland": 3,
+        "completion_visit_landmark_sharkremains": 3,
+        "completion_visit_papaya_boatracesouth": 3,
+        "completion_visit_landmark_loverslookout": 3,
+        "completion_visit_landmark_ruin": 3,
+        "completion_visit_landmark_remotehouse": 3,
+        "completion_visit_landmark_forkknifetruck": 3,
+        "completion_visit_landmark_bstore": 3,
+        "completion_visit_namedpoi_spybase_mountainbase": 3,
+        "completion_visit_landmark_hatch_c": 3,
+        "completion_visit_landmark_mounth7": 3,
+        "completion_visit_landmark_basecampfoxtrot": 3,
+        "completion_visit_landmark_hatch_a": 3,
+        "completion_visit_landmark_hatch_b": 3,
+        "completion_visit_landmark_waterfallgorge": 2,
+        "completion_visit_landmark_carman": 3,
+        "completion_visit_landmark_spybase_teddybearspies": 3,
+        "completion_visit_landmark_beachsidemansion": 2,
+        "completion_visit_landmark_greasygrove": 3,
+        "completion_visit_landmark_bonfirecampsite": 3,
+        "completion_visit_landmark_bigbridgepurple": 2,
+        "completion_visit_landmark_trophy": 3,
+        "completion_visit_landmark_jetlanding_17": 3,
+        "completion_visit_landmark_jetlanding_16": 3,
+        "completion_visit_landmark_boatsales": 3,
+        "completion_visit_landmark_jetlanding_15": 3,
+        "completion_visit_landmark_toilettitan": 3,
+        "completion_visit_landmark_jetlanding_14": 3,
+        "completion_visit_landmark_jetlanding_13": 3,
+        "completion_visit_landmark_jetlanding_12": 3,
+        "completion_visit_landmark_powerdam": 2,
+        "completion_visit_landmark_jetlanding_11": 3,
+        "completion_visit_landmark_jetlanding_10": 3,
+        "completion_visit_landmark_arenafloor3": 3,
+        "completion_visit_landmark_lawnmowerraces": 3,
+        "completion_visit_landmark_arenafloor4": 3,
+        "completion_visit_landmark_arenafloor1": 3,
+        "completion_visit_landmark_pipeplayground": 3,
+        "completion_visit_namedpoi_glasscases": 3,
+        "completion_visit_landmark_bigbridgeblue": 3,
+        "completion_visit_landmark_flopperpond": 3,
+        "completion_visit_landmark_iceblockfactory": 3,
+        "completion_visit_landmark_bigdoghouse": 3,
+        "completion_visit_landmark_boatlaunch": 3,
+        "completion_visit_landmark_bushface": 3,
+        "completion_visit_landmark_crashedcargo": 3,
+        "completion_visit_landmark_boatrace": 3,
+        "completion_visit_landmark_tallestmountain": 3,
+        "completion_visit_landmark_pizzapetetruck": 3,
+        "completion_visit_landmark_stumpyridge": 3,
+        "completion_visit_landmark_buoyboat": 3,
+        "completion_visit_papaya_gliderdrop": 3,
+        "completion_visit_landmark_spybase_recruitmentofficealter": 3,
+        "completion_visit_landmark_campcod": 2,
+        "completion_visit_landmark_stackshack": 3,
+        "completion_visit_landmark_sheriffoffice": 3,
+        "completion_visit_namedpoi_spybase_yacht": 2,
+        "completion_visit_landmark_datehouse": 3,
+        "completion_visit_landmark_toyfactory": 3,
+        "completion_impossible_landmark_of_permanence": 3,
+        "completion_visit_landmark_pipeperson": 3,
+        "completion_visit_papaya_fishingpond": 3,
+        "completion_visit_landmark_militarycamp_05": 3,
+        "completion_visit_landmark_crashedhelicopter": 3,
+        "completion_visit_landmark_chair": 3,
+        "completion_visit_landmark_militarycamp_02": 3,
+        "completion_visit_landmark_militarycamp_01": 3,
+        "completion_visit_papaya_thehub": 3,
+        "completion_visit_landmark_basecamphotel": 3,
+        "completion_visit_papaya_boatramps": 3,
+        "completion_visit_landmark_restaurantgas": 3,
+        "completion_visit_landmark_iohub_f4": 3,
+        "completion_visit_landmark_dustydepot": 3,
+        "completion_visit_landmark_shipwreckcove": 3,
+        "completion_visit_namedpoi_tomatosphere": 3,
+        "completion_visit_landmark_scrapyard": 3,
+        "completion_visit_landmark_floodedweepingwoods": 3,
+        "completion_visit_landmark_weatherstation": 3,
+        "completion_visit_landmark_friendmonument": 3,
+        "completion_visit_landmark_flushfactory": 3,
+        "completion_visit_landmark_bigbridgegreen": 3,
+        "completion_visit_landmark_snowconetruck": 3,
+        "completion_visit_landmark_awakestatue": 3,
+        "completion_visit_landmark_spybase_undergroundradiostation": 3,
+        "completion_visit_papaya_giantskeleton": 3,
+        "completion_visit_landmark_holidaystore": 3,
+        "completion_visit_landmark_onyxsphere": 3,
+        "completion_visit_landmark_mountaindanceclub": 3,
+        "completion_visit_landmark_throne": 3,
+        "completion_visit_landmark_noahhouse": 3,
+        "completion_visit_landmark_toiletthrone": 3,
+        "completion_visit_namedpoi_spybase_oilrig_reset_0": 3,
+        "completion_visit_namedpoi_spybase_shark": 2,
+        "completion_visit_landmark_bobsbluff": 3,
+        "completion_visit_landmark_highhoop": 3,
+        "completion_visit_landmark_fishfarm": 3,
+        "completion_visit_landmark_agencyhq": 3,
+        "completion_visit_landmark_fishrestaurantbarge2": 3,
+        "completion_visit_landmark_sentinelgraveyard": 3,
+        "completion_visit_landmark_turbo": 3,
+        "completion_visit_landmark_mountainvault": 3,
+        "completion_visit_landmark_spybase_undergroundgasstation": 3,
+        "completion_visit_landmark_bigbridgered": 3,
+        "completion_visit_landmark_crackshotscabin": 3,
+        "completion_visit_landmark_unremarkableshack": 3,
+        "completion_visit_landmark_suburban_abandonedhouse": 3,
+        "completion_visit_namedpoi_spybase_oilrig": 2,
+        "completion_visit_landmark_swampville": 3,
+        "completion_visit_landmark_dateroom": 3,
+        "completion_visit_namedpoi_tomatohouse": 3,
+        "completion_visit_landmark_beachbus": 3,
+        "completion_visit_landmark_durrrburgertruck": 3,
+        "completion_visit_landmark_spybase_floodeddirtydocks": 3,
+        "completion_visit_landmark_icechair": 3,
+        "completion_visit_landmark_corruptedisland": 3,
+        "completion_visit_landmark_radiostation": 3,
+        "completion_visit_papaya_theater": 3,
+        "completion_visit_landmark_lawoffice": 3,
+        "completion_visit_landmark_canoerentals": 3,
+        "completion_visit_papaya_obstaclecourse": 3,
+        "completion_visit_papaya_racecenter": 3,
+        "completion_visit_landmark_angryapples": 3,
+        "completion_visit_landmark_captaincarpstruck": 3,
+        "completion_visit_landmark_cliffsideruinedhouses": 3,
+        "completion_visit_landmark_digsite": 3,
+        "completion_visit_landmark_hayhillbilly": 3,
+        "completion_visit_landmark_lazylakeisland": 2,
+        "completion_visit_namedpoi_riskyreels": 3,
+        "completion_visit_papaya_piratecove": 3,
+        "completion_visit_landmark_hilltophouse": 3,
+        "completion_visit_papaya_mainstage": 3,
+        "completion_visit_landmark_sawmill": 3,
+        "completion_visit_papaya_secretbeach": 3,
+        "completion_visit_landmark_crashedairplane": 3,
+        "completion_visit_papaya_soccerfield": 3,
+        "completion_visit_landmark_spybase_recruitmentofficeego": 3,
+        "completion_visit_landmark_cosmoscrashsite": 3,
+        "completion_visit_landmark_steelfarm": 3,
+        "completion_visit_landmark_lighthouse": 3,
+        "completion_visit_landmark_coralcove": 3,
+        "completion_visit_landmark_zpoint": 3,
+        "completion_visit_landmark_galileosite2": 3,
+        "completion_visit_landmark_galileosite5": 3,
+        "completion_visit_landmark_galileosite1": 3,
+        "completion_visit_landmark_vikingvillage": 3,
+        "completion_visit_landmark_rapidsrest": 3,
+        "completion_visit_landmark_homelyhills": 3,
+        "completion_visit_landmark_spybase_undergroundsoccerfield": 3,
+        "completion_visit_papaya_boatraceeast": 3,
+        "completion_visit_landmark_spybase_spyobstaclecourse": 3
+      }
+    },
+    "sandbox_loadout": {
+      "templateId": "CosmeticLocker:cosmeticlocker_athena",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "Pickaxe": {
+              "items": [
+                null
+              ],
+              "activeVariants": []
+            },
+            "Dance": {
+              "items": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "Glider": {
+              "items": [
+                null
+              ]
+            },
+            "Character": {
+              "items": [
+                null
+              ],
+              "activeVariants": []
+            },
+            "Backpack": {
+              "items": [
+                null
+              ],
+              "activeVariants": []
+            },
+            "ItemWrap": {
+              "items": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "activeVariants": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "LoadingScreen": {
+              "items": [
+                null
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "MusicPack": {
+              "items": [
+                null
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "SkyDiveContrail": {
+              "items": [
+                null
+              ],
+              "activeVariants": [
+                null
+              ]
+            }
+          }
+        },
+        "use_count": 0,
+        "banner_icon_template": "",
+        "locker_name": "",
+        "banner_color_template": "",
+        "item_seen": false,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "loadout_1": {
+      "templateId": "CosmeticLocker:cosmeticlocker_athena",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "Pickaxe": {
+              "items": [
+                null
+              ],
+              "activeVariants": []
+            },
+            "Dance": {
+              "items": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "Glider": {
+              "items": [
+                null
+              ]
+            },
+            "Character": {
+              "items": [
+                null
+              ],
+              "activeVariants": []
+            },
+            "Backpack": {
+              "items": [
+                null
+              ],
+              "activeVariants": []
+            },
+            "ItemWrap": {
+              "items": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "activeVariants": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "LoadingScreen": {
+              "items": [
+                null
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "MusicPack": {
+              "items": [
+                null
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "SkyDiveContrail": {
+              "items": [
+                null
+              ],
+              "activeVariants": [
+                null
+              ]
+            }
+          }
+        },
+        "use_count": 0,
+        "banner_icon_template": "",
+        "locker_name": "",
+        "banner_color_template": "",
+        "item_seen": false,
+        "favorite": false
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "past_seasons": [
+        {
+          "seasonNumber": 11,
+          "numWins": 0,
+          "numHighBracket": 0,
+          "numLowBracket": 0,
+          "seasonXp": 0,
+          "seasonLevel": 500,
+          "bookXp": 0,
+          "bookLevel": 100,
+          "purchasedVIP": true
+        },
+        {
+          "seasonNumber": 12,
+          "numWins": 0,
+          "numHighBracket": 0,
+          "numLowBracket": 0,
+          "seasonXp": 0,
+          "seasonLevel": 500,
+          "bookXp": 0,
+          "bookLevel": 100,
+          "purchasedVIP": true
+        },
+        {
+          "seasonNumber": 13,
+          "numWins": 0,
+          "numHighBracket": 0,
+          "numLowBracket": 0,
+          "seasonXp": 0,
+          "seasonLevel": 500,
+          "bookXp": 0,
+          "bookLevel": 100,
+          "purchasedVIP": true
+        }
+      ],
+      "season_match_boost": 999,
+      "loadouts": [
+        "sandbox_loadout",
+        "loadout_1"
+      ],
+      "rested_xp_overflow": 0,
+      "mfa_reward_claimed": true,
+      "quest_manager": {},
+      "book_level": 0,
+      "season_num": 15,
+      "season_update": 0,
+      "book_xp": 0,
+      "permissions": [],
+      "book_purchased": true,
+      "lifetime_wins": 0,
+      "party_assist_quest": "",
+      "purchased_battle_pass_tier_offers": [],
+      "rested_xp_exchange": 0.333,
+      "level": 1,
+      "xp_overflow": 0,
+      "rested_xp": 204000,
+      "rested_xp_mult": 12.75,
+      "accountLevel": 1,
+      "competitive_identity": {},
+      "inventory_limit_bonus": 0,
+      "last_applied_loadout": "loadout_1",
+      "daily_rewards": {},
+      "xp": 0,
+      "season_friend_match_boost": 0,
+      "active_loadout_index": 0
+    }
+  }
+}
